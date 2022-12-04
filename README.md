@@ -6,5 +6,5 @@
 Compte rendu du TP2 du module JEE
 
 Dans le cadre de la mise en place d'une application web, par le framework Spring Boot, de consultation des comptes bancaires, notre TP a pour objectifs de : 
-        1) Créer un microservices avec le Service Web : Rest .
-        2) Créer un microservices avec le Service Web : GraphQl.
+        1) Créer un microservice avec le Service Web : Rest .
+        2) Créer un microservice avec le Service Web : GraphQl.
